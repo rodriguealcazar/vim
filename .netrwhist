@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/rodrigue/workspace/sumup_models'
+let g:netrw_dirhist_2='/Users/rodrigue/workspace/triangle/spec/unit_tests'
+let g:netrw_dirhist_3='/Users/rodrigue/workspace/Admin-Tool/spec/script'
+let g:netrw_dirhist_4='/Users/rodrigue/.rvm/gems/ruby-1.9.2-p320@global/gems/jules-1.2.0'
+let g:netrw_dirhist_5='/Users/rodrigue/.rvm/gems/ruby-1.9.2-p320@global/gems/jules-1.2.0/lib'
